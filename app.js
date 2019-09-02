@@ -1,5 +1,3 @@
-import 'jquery';
-
 // Initialization
 const results = $('#results'),
     list = $('#list');
